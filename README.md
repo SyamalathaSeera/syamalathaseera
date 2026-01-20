@@ -49,26 +49,13 @@
 ### 🔹 FDA Form 483 Analysis System  
 AI-powered pipeline converting unstructured FDA PDFs into structured insights using GPT‑4, Flask, and Python.  
 **Tech:** Python, Flask, OpenAI, Pandas, Regex, REST APIs  
-🔗 **Repo:** *Add your GitHub link here*
+🔗 **Repo:** *(https://github.com/vdavalap/FDA-Data-Bridges-Capstone-Project)*
 
----
-
-### 🔹 Geospatial Bridge Condition Analysis  
-Analyzed 25K+ California bridge records using Spark MLlib and Databricks to uncover structural and regional patterns.  
-**Tech:** PySpark, Databricks, Spark MLlib  
-🔗 **Repo:** *Add your GitHub link here*
-
----
-
-### 🔹 Flappy Bird AI Agent  
-NEAT-based reinforcement learning agent trained to autonomously play Flappy Bird.  
-**Tech:** Python, PyGame, NEAT  
-🔗 **Repo:** *Add your GitHub link here*
 
 ---
 
 ## 🏅 Certifications
-
+![AWS Data Engineer](https://img.shields.io/badge/AWS%20Data%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![AWS Academy Graduate](https://img.shields.io/badge/AWS%20Academy%20Graduate-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Data Science for Engineers](https://img.shields.io/badge/Data%20Science%20for%20Engineers-0052CC?style=flat)
